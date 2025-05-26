@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [@Hedro](https://www.hedro.com.br/)
+- 🔭 I’m currently working on [@Globoplay](https://globoplay.globo.com/)
 - 🌱 I’m currently studying Computer Engineering at [@CEFET-MG](https://www.cefetmg.br/)
 
 <div align="center">
